@@ -10,6 +10,9 @@
 
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b4c5290baa33ae86d9fd2b0a1cec2168&theme=gotham&locale=kr)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae9610)](https://solved.ac/profile/minjae9610)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
 
 </div>
