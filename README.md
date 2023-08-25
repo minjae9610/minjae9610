@@ -1,5 +1,7 @@
 <div align="center">  
-  
+
+![profile-3d-contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Minjae%20Kim&fontAlignY=40)
 
 ### Tech Stack
@@ -68,8 +70,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae9610)](https://solved.ac/profile/minjae9610)
 
 [![OPGC Rank](https://api.opgc.me/githubs/users/minjae9610/tag/?theme=basic)](https://opgc.me/#/users/minjae9610)
-
-![profile-3d-contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
 
