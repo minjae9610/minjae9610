@@ -62,6 +62,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae9610)](https://solved.ac/profile/minjae9610)
 
+[![OPGC Rank](https://api.opgc.me/githubs/users/minjae9610/tag/?theme=basic)](https://opgc.me/#/users/minjae9610)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
 
 </div>
