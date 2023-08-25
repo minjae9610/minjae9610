@@ -13,11 +13,6 @@
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)
-![Static Badge](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Static Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -25,6 +20,11 @@
 ![Static Badge](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+![Static Badge](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white)
