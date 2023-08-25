@@ -64,8 +64,8 @@
 
 [![OPGC Rank](https://api.opgc.me/githubs/users/minjae9610/tag/?theme=basic)](https://opgc.me/#/users/minjae9610)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
-
 ![profile-3d-contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
 
 </div>
