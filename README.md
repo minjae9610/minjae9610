@@ -54,7 +54,7 @@
 ![Static Badge](https://img.shields.io/badge/Apple%20Developer%20Academy%20@%20POSTECH-000000?style=flat-square&logo=apple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae9610%2Fminjae9610&count_bg=%2356C600&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae9610%2Fminjae9610&count_bg=%2356C600&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjae9610&show_icons=true&theme=gotham&locale=kr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
