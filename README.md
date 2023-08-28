@@ -60,7 +60,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjae9610&langs_count=10&layout=donut&theme=gotham&locale=kr)
 
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b4c5290baa33ae86d9fd2b0a1cec2168&theme=gotham&locale=kr)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b4c5290baa33ae86d9fd2b0a1cec2168&theme=gotham&locale=kr)](https://gist.github.com/minjae9610/b4c5290baa33ae86d9fd2b0a1cec2168/)
 
 ![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjae9610&theme=nord_dark)
 
